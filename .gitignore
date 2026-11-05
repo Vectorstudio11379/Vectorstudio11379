@@ -2,6 +2,9 @@ node_modules/
 package.json
 package-lock.json
 *.js
-name_paths.json
+*.json
+*.ttf
 Microsoft/
-
+megha_*
+jinwoo_*
+character_*

@@ -1,24 +1,24 @@
 <div align="center">
 
-  <!-- AUTO DARK / LIGHT SWITCHING ANIMATED BANNER -->
+  <!-- AUTO DARK / LIGHT SWITCHING ANIMATED BANNER (ZENITSU THUNDER EDITION) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=1">
-    <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=1">
-    <img src="./banner.svg?v=1" alt="Elijah Ezekiel — Animated Profile Banner" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=2">
+    <img src="./banner.svg?v=2" alt="Elijah Ezekiel — Web &amp; AI Automation Engineer" width="100%">
   </picture>
 
-  <br><br>
+  <br/><br/>
 
   <!-- SWINGING LANYARD ID BADGE -->
   <a href="https://github.com/Vectorstudio11379">
-    <img src="./lanyard.svg?v=1" alt="Elijah Ezekiel — Verified Developer ID Badge" width="340">
+    <img src="./lanyard.svg?v=2" alt="Elijah Ezekiel — Verified Developer ID Badge" width="340">
   </a>
 
-  <br>
+  <br/>
 
   <!-- PROFILE VIEWS & STATUS BADGES -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Vectorstudio11379&label=PROFILE+VIEWS&color=ff3b81&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Vectorstudio11379&label=PROFILE+VIEWS&color=facc15&style=for-the-badge" alt="Profile Views" />
     <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20HIRE-10b981?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
     <img src="https://img.shields.io/badge/LOCATION-ABUJA%2C%20NIGERIA-38bdf8?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </p>
@@ -55,8 +55,8 @@ passions: [AI Agents, Clean Code, Scalable Systems, Piano, Anime]
 tagline: "Turning ideas into intelligent systems & high-impact digital experiences."
 ```
 
-- 🤖 **AI Automation Specialist:** Building autonomous agentic workflows, multi-agent systems, and production integrations using the **Gemini API**, **Python**, and **N8N**.
-- 💻 **Full-Stack Web Architect:** Over 4 years of engineering high-conversion web platforms with **React**, **Next.js**, **JavaScript**, **Tailwind CSS**, and modern backend services.
+- ⚡ **Thunderclap Speed:** Building autonomous agentic workflows and multi-agent integrations using **Gemini API**, **Python**, and **N8N**.
+- 💻 **Full-Stack Web Architect:** Over 4 years of engineering high-conversion web platforms with **React**, **Next.js**, **JavaScript**, **Tailwind CSS**, and modern cloud infrastructure.
 - 🛡️ **Cybersecurity Mindset:** Deep focus on data privacy, secure authentication, resilient systems, and cloud infrastructure.
 - 🌍 **Global Reach:** Based in Abuja, Nigeria — actively collaborating on cutting-edge remote projects worldwide.
 
@@ -82,13 +82,13 @@ tagline: "Turning ideas into intelligent systems & high-impact digital experienc
 
 <div align="center">
 
-  <img src="./stats.svg?v=1" alt="GitHub Stats Card" width="48.5%">
+  <img src="./stats.svg?v=2" alt="GitHub Stats Card" width="48.5%">
   &nbsp;
-  <img src="./langs.svg?v=1" alt="Top Languages Card" width="48.5%">
+  <img src="./langs.svg?v=2" alt="Top Languages Card" width="48.5%">
 
   <br><br>
 
-  <img src="./trophies.svg?v=1" alt="Achievements & Trophies Card" width="98%">
+  <img src="./trophies.svg?v=2" alt="Achievements &amp; Trophies Card" width="98%">
 
 </div>
 
@@ -101,7 +101,7 @@ tagline: "Turning ideas into intelligent systems & high-impact digital experienc
 | **[Penithun Solutions](https://github.com/Vectorstudio11379)** | Enterprise IT infrastructure, brand architecture, and cybersecurity management platform. | `React` `Tailwind` `Node.js` `Security` | 🟢 Active |
 | **[Buildora AI Agency Engine](https://github.com/Vectorstudio11379)** | High-converting design and AI-driven automation framework delivering autonomous web systems. | `Python` `Gemini API` `React` `N8N` | 🟢 Live |
 | **[ExpressTech Academy LMS](https://github.com/Vectorstudio11379)** | Comprehensive LMS integration with LearnPress, dynamic curriculums, and student progress flows. | `WordPress` `PHP` `LearnPress` `CSS3` | 🟢 Deployed |
-| **[Southofheaven & JumboDTG](https://github.com/Vectorstudio11379)** | High-performance e-commerce architecture revamp resulting in +40% speed and +25% conversions. | `Shopify` `Liquid` `JavaScript` `SEO` | 🟢 Completed |
+| **[Southofheaven &amp; JumboDTG](https://github.com/Vectorstudio11379)** | High-performance e-commerce architecture revamp resulting in +40% speed and +25% conversions. | `Shopify` `Liquid` `JavaScript` `SEO` | 🟢 Completed |
 | **[Beacon Corporate Realty](https://github.com/Vectorstudio11379)** | Full digital presence revamp with automated lead capture, interactive property showcases, and SEO. | `WordPress` `Elementor` `Analytics` | 🟢 Completed |
 
 ---
@@ -121,14 +121,13 @@ tagline: "Turning ideas into intelligent systems & high-impact digital experienc
 
 <div align="center">
 
-  **⭐ "KEEP CODING • KEEP GROWING" ⭐**  
-  *Designed with pure SVG animations, damped physics, and custom AI artwork.*
+  **⚡ "KEEP CODING • KEEP GROWING" ⚡**  
+  *Designed with pure SVG animations, damped pendulum physics, and Zenitsu Thunder Breathing theme.*
 
   <br>
 
-  [![Email](https://img.shields.io/badge/Direct%20Inquiry-ezekielelijahkola%40gmail.com-ff3b81?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:ezekielelijahkola@gmail.com)
+  [![Email](https://img.shields.io/badge/Direct%20Inquiry-ezekielelijahkola%40gmail.com-facc15?style=for-the-badge&logo=mail.ru&logoColor=black)](mailto:ezekielelijahkola@gmail.com)
   &nbsp;
-  [![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-timiportfolio.netlify.app-7928ca?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://timiportfolio.netlify.app)
+  [![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-timiportfolio.netlify.app-ff7eb6?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://timiportfolio.netlify.app)
 
 </div>
-
