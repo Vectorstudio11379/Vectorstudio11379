@@ -2,16 +2,16 @@
 
   <!-- AUTO DARK / LIGHT SWITCHING ANIMATED BANNER (ZENITSU THUNDER EDITION) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=2">
-    <img src="./banner.svg?v=2" alt="Elijah Ezekiel — Web &amp; AI Automation Engineer" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vectorstudio11379/Vectorstudio11379/main/banner.svg?v=3">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vectorstudio11379/Vectorstudio11379/main/banner-light.svg?v=3">
+    <img src="https://raw.githubusercontent.com/Vectorstudio11379/Vectorstudio11379/main/banner.svg?v=3" alt="Elijah Ezekiel — Web &amp; AI Automation Engineer" width="100%">
   </picture>
 
   <br/><br/>
 
   <!-- SWINGING LANYARD ID BADGE -->
   <a href="https://github.com/Vectorstudio11379">
-    <img src="./lanyard.svg?v=2" alt="Elijah Ezekiel — Verified Developer ID Badge" width="340">
+    <img src="https://raw.githubusercontent.com/Vectorstudio11379/Vectorstudio11379/main/lanyard.svg?v=3" alt="Elijah Ezekiel — Verified Developer ID Badge" width="340">
   </a>
 
   <br/>
@@ -82,13 +82,13 @@ tagline: "Turning ideas into intelligent systems & high-impact digital experienc
 
 <div align="center">
 
-  <img src="./stats.svg?v=2" alt="GitHub Stats Card" width="48.5%">
+  <img src="https://raw.githubusercontent.com/Vectorstudio11379/Vectorstudio11379/main/stats.svg?v=3" alt="GitHub Stats Card" width="48.5%">
   &nbsp;
-  <img src="./langs.svg?v=2" alt="Top Languages Card" width="48.5%">
+  <img src="https://raw.githubusercontent.com/Vectorstudio11379/Vectorstudio11379/main/langs.svg?v=3" alt="Top Languages Card" width="48.5%">
 
   <br><br>
 
-  <img src="./trophies.svg?v=2" alt="Achievements &amp; Trophies Card" width="98%">
+  <img src="https://raw.githubusercontent.com/Vectorstudio11379/Vectorstudio11379/main/trophies.svg?v=3" alt="Achievements &amp; Trophies Card" width="98%">
 
 </div>
 
@@ -111,9 +111,9 @@ tagline: "Turning ideas into intelligent systems & high-impact digital experienc
 <!-- AUTO-GENERATED DAILY VIA GITHUB ACTIONS -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vectorstudio11379/Vectorstudio11379/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vectorstudio11379/Vectorstudio11379/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/Vectorstudio11379/Vectorstudio11379/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vectorstudio11379/Vectorstudio11379/main/github-contribution-grid-snake-dark.svg?v=3">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vectorstudio11379/Vectorstudio11379/main/github-contribution-grid-snake.svg?v=3">
+    <img src="https://raw.githubusercontent.com/Vectorstudio11379/Vectorstudio11379/main/github-contribution-grid-snake-dark.svg?v=3" alt="GitHub Contribution Snake Animation" width="100%">
   </picture>
 </div>
 

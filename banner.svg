@@ -66,7 +66,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 </linearGradient>
 <clipPath id="charReveal"><rect x="722" y="152" width="558" height="0">
   <animate attributeName="height" from="0" to="522" dur="1.8s" begin=".5s" fill="freeze"/>
-</clipPath>
+</rect></clipPath>
 <clipPath id="charBox"><rect x="722" y="152" width="558" height="522"/></clipPath>
 <clipPath id="bannerBox"><rect x="1" y="1" width="1278" height="738" rx="22"/></clipPath>
 </defs>
@@ -192,7 +192,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 <g font-size="12.5">
   <text class="cl" x="568" y="90" style="animation:fadeIn .3s ease 1.8s forwards"><tspan fill="#facc15">function</tspan><tspan fill="#7dd3fc"> buildDreams</tspan><tspan fill="#e6edf3">() {</tspan></text>
   <text class="cl" x="582" y="110" style="animation:fadeIn .3s ease 2.1s forwards"><tspan fill="#facc15">return</tspan><tspan fill="#e6edf3"> (</tspan></text>
-  <text class="cl" x="596" y="130" style="animation:fadeIn .3s ease 2.4s forwards"><tspan fill="#8b949e">&lt;</tspan><tspan fill="#4ade80">div</tspan><tspan fill="#c084fc"> className</tspan><tspan fill="#e6edf3">=\f"dreams\"</tspan><tspan fill="#8b949e">&gt;</tspan></text>
+  <text class="cl" x="596" y="130" style="animation:fadeIn .3s ease 2.4s forwards"><tspan fill="#8b949e">&lt;</tspan><tspan fill="#4ade80">div</tspan><tspan fill="#c084fc"> className</tspan><tspan fill="#e6edf3">=&quot;dreams&quot;</tspan><tspan fill="#8b949e">&gt;</tspan></text>
   <text class="cl" x="610" y="150" style="animation:fadeIn .3s ease 2.7s forwards"><tspan fill="#8b949e">&lt;</tspan><tspan fill="#facc15">Code</tspan><tspan fill="#8b949e"> /&gt;</tspan></text>
   <text class="cl" x="610" y="168" style="animation:fadeIn .3s ease 2.95s forwards"><tspan fill="#8b949e">&lt;</tspan><tspan fill="#fde047">Coffee</tspan><tspan fill="#8b949e"> /&gt;</tspan></text>
   <text class="cl" x="610" y="186" style="animation:fadeIn .3s ease 3.2s forwards"><tspan fill="#8b949e">&lt;</tspan><tspan fill="#7dd3fc">Repeat</tspan><tspan fill="#8b949e"> /&gt;</tspan></text>
