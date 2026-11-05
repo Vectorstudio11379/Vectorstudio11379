@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 180" width="940" height="180">
+  <defs>
+    <linearGradient id="trophyBgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#120826" />
+      <stop offset="100%" stop-color="#090514" />
+    </linearGradient>
+
+    <!-- Holographic Shine Gradient -->
+    <linearGradient id="shineFoil" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="transparent" />
+      <stop offset="45%" stop-color="transparent" />
+      <stop offset="50%" stop-color="rgba(255, 255, 255, 0.45)" />
+      <stop offset="55%" stop-color="transparent" />
+      <stop offset="100%" stop-color="transparent" />
+    </linearGradient>
+
+    <clipPath id="trophiesClip">
+      <rect width="940" height="180" rx="16" />
+    </clipPath>
+  </defs>
+
+  <style>
+    text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    }
+    .mono {
+      font-family: 'Fira Code', 'Cascadia Code', Consolas, monospace;
+    }
+
+    /* Pop-in animation */
+    @keyframes trophyPop {
+      0% {
+        opacity: 0;
+        transform: scale(0.85) translateY(12px);
+      }
+      100% {
+        opacity: 1;
+        transform: scale(1) translateY(0);
+      }
+    }
+    .trophy-cell {
+      opacity: 0;
+      animation: trophyPop 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+    }
+
+    /* Holographic Shine Sweep */
+    @keyframes sweepFoil {
+      0% {
+        transform: translate(-400px, -200px) rotate(20deg);
+      }
+      30%, 100% {
+        transform: translate(1100px, 300px) rotate(20deg);
+      }
+    }
+    .foil-sweep {
+      animation: sweepFoil 4.5s ease-in-out infinite;
+    }
+  </style>
+
+  <g clip-path="url(#trophiesClip)">
+    <!-- Base Card Surface -->
+    <rect width="940" height="180" rx="16" fill="url(#trophyBgGrad)" stroke="rgba(168, 85, 247, 0.28)" stroke-width="1.2" />
+
+    <!-- Window Header -->
+    <circle cx="20" cy="18" r="4.5" fill="#ff5f56" />
+    <circle cx="34" cy="18" r="4.5" fill="#ffbd2e" />
+    <circle cx="48" cy="18" r="4.5" fill="#27c93f" />
+    <text x="68" y="22" fill="#e2e8f0" font-size="12" font-weight="700" class="mono">🏆 ACHIEVEMENTS &amp; RECOGNITION</text>
+    <line x1="0" y1="34" x2="940" y2="34" stroke="rgba(255, 255, 255, 0.08)" />
+
+    <!-- 4 Trophy Showcase Cells (width: 210 each, gap: 16) -->
+    <!-- Cell 1: Master Coder -->
+    <g class="trophy-cell" style="animation-delay: 0.1s;" transform="translate(20, 48)">
+      <rect width="210" height="114" rx="12" fill="rgba(255, 255, 255, 0.04)" stroke="rgba(251, 191, 36, 0.4)" stroke-width="1.2" />
+      <text x="105" y="44" text-anchor="middle" font-size="30">🏆</text>
+      <!-- Rank Pill -->
+      <rect x="80" y="54" width="50" height="18" rx="9" fill="rgba(251, 191, 36, 0.2)" stroke="#fbbf24" stroke-width="1" />
+      <text x="105" y="67" text-anchor="middle" fill="#fde047" font-size="10" font-weight="800" class="mono">RANK S+</text>
+      <text x="105" y="88" text-anchor="middle" fill="#ffffff" font-size="12" font-weight="700">Master Coder</text>
+      <text x="105" y="102" text-anchor="middle" fill="#94a3b8" font-size="10" font-weight="500">1,840+ Commits</text>
+    </g>
+
+    <!-- Cell 2: AI Automation Lead -->
+    <g class="trophy-cell" style="animation-delay: 0.25s;" transform="translate(246, 48)">
+      <rect width="210" height="114" rx="12" fill="rgba(255, 255, 255, 0.04)" stroke="rgba(255, 59, 129, 0.4)" stroke-width="1.2" />
+      <text x="105" y="44" text-anchor="middle" font-size="30">⚡</text>
+      <!-- Rank Pill -->
+      <rect x="80" y="54" width="50" height="18" rx="9" fill="rgba(255, 59, 129, 0.2)" stroke="#ff3b81" stroke-width="1" />
+      <text x="105" y="67" text-anchor="middle" fill="#ff6090" font-size="10" font-weight="800" class="mono">RANK S+</text>
+      <text x="105" y="88" text-anchor="middle" fill="#ffffff" font-size="12" font-weight="700">AI Systems Lead</text>
+      <text x="105" y="102" text-anchor="middle" fill="#94a3b8" font-size="10" font-weight="500">Multi-Agent Pipelines</text>
+    </g>
+
+    <!-- Cell 3: Community Builder -->
+    <g class="trophy-cell" style="animation-delay: 0.4s;" transform="translate(472, 48)">
+      <rect width="210" height="114" rx="12" fill="rgba(255, 255, 255, 0.04)" stroke="rgba(168, 85, 247, 0.4)" stroke-width="1.2" />
+      <text x="105" y="44" text-anchor="middle" font-size="30">🌟</text>
+      <!-- Rank Pill -->
+      <rect x="80" y="54" width="50" height="18" rx="9" fill="rgba(168, 85, 247, 0.2)" stroke="#a855f7" stroke-width="1" />
+      <text x="105" y="67" text-anchor="middle" fill="#c084fc" font-size="10" font-weight="800" class="mono">RANK S+</text>
+      <text x="105" y="88" text-anchor="middle" fill="#ffffff" font-size="12" font-weight="700">Open Source Star</text>
+      <text x="105" y="102" text-anchor="middle" fill="#94a3b8" font-size="10" font-weight="500">450+ Stars Earned</text>
+    </g>
+
+    <!-- Cell 4: Security Champion -->
+    <g class="trophy-cell" style="animation-delay: 0.55s;" transform="translate(698, 48)">
+      <rect width="210" height="114" rx="12" fill="rgba(255, 255, 255, 0.04)" stroke="rgba(16, 185, 129, 0.4)" stroke-width="1.2" />
+      <text x="105" y="44" text-anchor="middle" font-size="30">🛡️</text>
+      <!-- Rank Pill -->
+      <rect x="80" y="54" width="50" height="18" rx="9" fill="rgba(16, 185, 129, 0.2)" stroke="#10b981" stroke-width="1" />
+      <text x="105" y="67" text-anchor="middle" fill="#34d399" font-size="10" font-weight="800" class="mono">RANK A+</text>
+      <text x="105" y="88" text-anchor="middle" fill="#ffffff" font-size="12" font-weight="700">Security Champion</text>
+      <text x="105" y="102" text-anchor="middle" fill="#94a3b8" font-size="10" font-weight="500">Cybersecurity Miva</text>
+    </g>
+
+    <!-- Diagonal Holographic Foil Sweep -->
+    <rect class="foil-sweep" x="-200" y="-100" width="220" height="350" fill="url(#shineFoil)" pointer-events="none" />
+  </g>
+</svg>
